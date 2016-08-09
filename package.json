@@ -37,10 +37,10 @@
     "preversion": "npm test"
   },
   "dependencies": {
-    "@angular/http": "2.0.0-rc.4",
-    "@angular/common": "2.0.0-rc.3",
+    "@angular/http": "^2.0.0-rc.4",
+    "@angular/common": "^2.0.0-rc.3",
     "@angular/compiler": "2.0.0-rc.3",
-    "@angular/core": "2.0.0-rc.3",
+    "@angular/core": "^2.0.0-rc.3",
     "@angular/forms": "^0.2.0",
     "@angular/platform-browser": "2.0.0-rc.3",
     "@angular/platform-browser-dynamic": "2.0.0-rc.3",
@@ -57,7 +57,7 @@
     "zone.js": "~0.6.12",
     "moment": "^2.13.0",
     "normalize.css": "^4.1.1",
-    "underscore": "^1.8.3"
+    "underscore": "latest"
   },
   "devDependencies": {
     "angular2-hmr": "~0.6.0",
